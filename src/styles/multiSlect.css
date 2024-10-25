@@ -1,0 +1,42 @@
+/* Overall multiselect container */
+.custom-multiselect .multiselect-container {
+    width: 300px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    padding: 5px;
+  }
+  
+  /* Search box style */
+  .custom-multiselect .searchBox {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 5px;
+  }
+  
+  /* Chips (selected items) */
+  .custom-multiselect .chips {
+    background-color: #007bff;
+    color: white;
+    border-radius: 5px;
+    padding: 5px;
+  }
+  
+  /* Option container (dropdown list) */
+  .custom-multiselect .optionContainer {
+    border: 1px solid #ccc;
+    border-radius: 10px;
+  }
+  
+  /* Individual option styling */
+  .custom-multiselect .option {
+    color: #007bff;
+    background-color: #f0f0f0;
+    padding: 10px;
+  }
+  
+  /* Customize the option when hovered */
+  .custom-multiselect .option:hover {
+    background-color: #d1e7ff;
+    cursor: pointer;
+  }
+  
