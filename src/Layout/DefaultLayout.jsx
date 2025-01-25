@@ -443,7 +443,7 @@ const DashboardLayout = ({ isOnline }) => {
                     Jenny Wilson
                   </Text>
                   <Text color="#A0ABBB" fontWeight={500} fontSize="small">
-                    jen.wilson@wdipl.com
+                    jen.wilson@optifii.com
                   </Text>
                 </VStack>
                 <SlOptions fontSize="large" style={{ marginRight: "3px" }} />

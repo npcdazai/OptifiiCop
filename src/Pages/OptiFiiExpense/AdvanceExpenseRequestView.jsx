@@ -240,7 +240,7 @@ const AdvanceExpenseRequestView = () => {
                                     Pooja Shah
                                 </Text>
                                 <Text color={"#667085"} fontSize={"xs"} mb={0} fontWeight={400}>
-                                    poojashah @wdipl.com
+                                    poojashah @optifii.com
                                 </Text>
                             </Box>
                         </HStack>

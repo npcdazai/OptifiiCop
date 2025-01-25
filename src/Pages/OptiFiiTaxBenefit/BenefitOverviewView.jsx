@@ -333,7 +333,7 @@ import {
                     Pooja Shah
                   </Text>
                   <Text color={"#667085"} fontSize={"xs"} mb={0} fontWeight={400}>
-                    poojashah @wdipl.com
+                    poojashah @optifii.com
                   </Text>
                 </Box>
               </HStack>
@@ -352,7 +352,7 @@ import {
                     Manav sain
                   </Text>
                   <Text color={"#667085"} fontSize={"xs"} mb={0} fontWeight={400}>
-                    manavsain@wdipl.com
+                    manavsain@optifii.com
                   </Text>
                 </Box>
                 <Image

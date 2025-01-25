@@ -265,7 +265,7 @@ const EmployeesView = () => {
                         <HStack mb={2}>
                             <Text fontSize={"xs"} color={"#999999"} mb={0}>Email :</Text>
                             <Text mb={0} fontSize={"xs"} fontWeight={500}>
-                                poojashah@wdipl.com
+                                poojashah@optifii.com
                             </Text>
                         </HStack>
                         <HStack>

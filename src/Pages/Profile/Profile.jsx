@@ -21,7 +21,7 @@ import { IoMdTime } from "react-icons/io";
 import bluetick from "../../assets/icons/verifytick.png";
 const employeeInfo = [
   { label: "Phone", value: "+91 4578451245" },
-  { label: "Email", value: "poojashah@wdipl.com" },
+  { label: "Email", value: "poojashah@optifii.com" },
   { label: "Grade", value: "A01" },
 ];
 const permissions = [
