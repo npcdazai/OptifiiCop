@@ -89,7 +89,7 @@ const EmployeesTransactions = () => {
         ),
         "Email Address": (
             <Text mb={0} fontWeight={500} fontSize={"xs"}>
-                in***@wdimails.com
+                in***@optifiimais.com
             </Text>
         ),
         "Date & time": (
