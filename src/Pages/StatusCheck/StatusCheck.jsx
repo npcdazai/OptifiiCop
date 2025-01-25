@@ -166,10 +166,7 @@ const StatusCheck = ({ isOnline = true }) => {
               mb={2}
               rounded="md"
             >
-              <Image me={2} src={compLogo} />
-              <Text as={"span"} fontSize="10px">
-                Website Developers India Pvt Ltd
-              </Text>
+     
             </Box>
             <Accordion
               m={0}

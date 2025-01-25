@@ -206,7 +206,7 @@ const Profile = () => {
               Company name :{" "}
             </Text>
             <Text color="#0F0F0F" fontWeight={600} fontSize="small">
-              Website Developers India Pvt Ltd.
+              ABC  Pvt Ltd.
             </Text>
           </HStack>
           <HStack>

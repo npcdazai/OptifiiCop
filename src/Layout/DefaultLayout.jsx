@@ -191,20 +191,7 @@ const DashboardLayout = ({ isOnline }) => {
               paddingBottom: "5rem",
             }}
           >
-            <Box
-              display={"flex"}
-              alignItems={"center"}
-              bg={" #FFFFFF26"}
-              p={2}
-              // m={2}.
-              mb={2}
-              rounded="md"
-            >
-              <Image me={2} src={compLogo} />
-              <Text as={"span"} fontSize="10px">
-                Website Developers India Pvt Ltd
-              </Text>
-            </Box>
+         
             <Accordion
               m={0}
               // px={0}
