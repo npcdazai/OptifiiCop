@@ -454,7 +454,7 @@ const HeaderMain = ({
                         Hello, Developers
                       </Text>
                       <Text as={"span"} className="web-text-xsmall">
-                        mailto:wdi@tanami.com
+                        mailto:jennydanny@optifii.com
                       </Text>
                     </Box>
                   </Box>
@@ -473,7 +473,7 @@ const HeaderMain = ({
                         Hello, Developers
                       </Text>
                       <Text as={"span"} className="web-text-xsmall">
-                        mailto:wdi@tanami.com
+                        mailto:jennydanny@optifii.com
                       </Text>
                     </Box>
                   </Box>
